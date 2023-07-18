@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Kimia!
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I need someone to learn JavaScript together!
-- 📫 hit me on telgram or WhatsApp +989364807978
+- 🌱 I’m currently learning python
+- 💞️ I need someone to learn python together!
+- 📫 hit me on telgram or WhatsApp +989364807978 or on discord kimia_cake
 
 <!---
 Kimiacake/Kimiacake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
